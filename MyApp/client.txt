@@ -1,0 +1,8 @@
+Le nombre demandé par le client est :6
+Le serveur envoi la reponse suivante :
+Le nombre n° 1 est: 6
+Le nombre n° 2 est: 0
+Le nombre n° 3 est: 6
+Le nombre n° 4 est: 2
+Le nombre n° 5 est: 6
+Le nombre n° 6 est: 1
